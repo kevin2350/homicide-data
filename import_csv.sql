@@ -1,0 +1,2 @@
+-- write your COPY statement to import a csv here
+COPY homicide_weapons(state, all_weapons, firearm, handgun, rifle, shotgun, sharp_object, blunt_object, body_part, fire, narcotics, asphyxiation, other, not_specified) FROM 'C:/Users/kevin/homework06-kevin2350/homicide_weapons_2021.csv' csv HEADER;

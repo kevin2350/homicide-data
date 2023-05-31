@@ -1,0 +1,64 @@
+"Title:","Weapon Used from the Supplementary Homicide Report Database"
+"SubTitle:",""
+"Time:","2021"
+"Unit of Measure:","#","#","#","#","#","#","#","#","#","#","#","#","#"
+"Citation:","Federal Bureau of Investigation (2022-11-28). Supplementary Homicide Report: Weapon Used | All Weapons | Firearm, type not stated | Handgun - pistol, revolver, etc. | Rifle | Shotgun | Knife/Cutting Instrument - includes icepick, screwdriver, axe, etc. | Blunt Object - hammer, club, etc. | Personal Weapons - includes beating by hands, feet, use of teeth, or other body members | Fire | Narcotics/Drugs - includes sleeping pills | Asphyxiation - includes death by gas | Other - type of weapon not designated or unknown | Not Specified, 2021. Sage Data. Sage Publishing Ltd. (Dataset). Dataset-ID:  010-004-007 doi:https://doi.org/10.6068/DP1872B34414728"
+"ColumnCount:",16
+"RowCount:",50
+
+"State","All Weapons, 2021","Firearm, type not stated, 2021","Handgun - pistol, revolver, etc., 2021","Rifle, 2021","Shotgun, 2021","Knife/Cutting Instrument - includes icepick, screwdriver, axe, etc., 2021","Blunt Object - hammer, club, etc., 2021","Personal Weapons - includes beating by hands, feet, use of teeth, or other body members, 2021","Fire, 2021","Narcotics/Drugs - includes sleeping pills, 2021","Asphyxiation - includes death by gas, 2021","Other - type of weapon not designated or unknown, 2021","Not Specified, 2021"
+"Texas",3042,1040,1178,106,21,187,47,102,8,8,5,279,27
+"North Carolina",1197,340,501,49,20,49,16,36,3,36,2,117,13
+"Michigan",1069,418,337,41,8,58,8,33,3,18,5,114,17
+"Ohio",937,355,343,15,2,29,13,26,6,28,6,85,10
+"Tennessee",890,388,304,27,12,38,6,16,,18,1,53,4
+"Georgia",883,223,449,38,7,38,10,30,7,10,3,55,13
+"Alabama",866,312,334,38,8,20,4,2,2,6,2,128,2
+"South Carolina",819,278,377,21,9,26,12,10,1,12,5,43,22
+"Indiana",799,207,405,20,6,47,19,35,,4,4,47,4
+"Virginia",774,228,305,20,7,35,14,22,3,9,2,115,7
+"Missouri",756,281,304,21,6,32,15,10,4,19,4,50,3
+"Illinois",682,106,338,10,1,22,5,13,,1,1,46,
+"Pennsylvania",612,135,355,3,3,29,5,19,6,15,4,37,
+"Louisiana",531,140,179,30,7,36,4,15,2,6,1,83,14
+"Colorado",526,86,265,8,2,47,15,32,6,6,1,51,6
+"Wisconsin",501,179,173,11,3,26,7,5,1,21,2,65,6
+"Kentucky",467,130,218,13,1,14,3,10,2,41,5,24,4
+"Washington",447,106,182,9,9,40,10,17,3,19,1,42,3
+"Minnesota",439,114,164,8,3,25,3,16,4,1,1,89,4
+"Oklahoma",415,96,173,9,6,31,10,17,1,8,1,58,
+"Arkansas",407,160,118,22,9,26,7,6,1,3,2,46,3
+"Arizona",388,67,132,15,2,47,11,17,,4,1,87,2
+"Nevada",296,125,70,4,7,22,9,13,,6,3,34,2
+"Oregon",266,65,93,2,2,24,5,17,3,2,1,47,3
+"New Mexico",222,107,36,7,4,17,2,8,2,,,36,3
+"Mississippi",221,69,89,10,6,13,3,7,,,,14,8
+"Maryland",207,49,105,,1,29,,7,,,2,13,1
+"Connecticut",199,88,55,,,20,1,10,1,5,6,12,1
+"Massachusetts",186,56,51,1,,33,4,5,4,1,,27,2
+"California",159,3,52,,,26,4,19,,,,27,1
+"New Jersey",146,21,79,,,16,7,11,2,1,2,6,1
+"New York",135,83,8,2,1,17,3,9,,2,,10,
+"Washington DC",132,6,90,5,,16,,3,,,,3,
+"Utah",130,22,56,4,,5,3,8,,1,1,23,6
+"West Virginia",116,29,39,2,,9,5,4,,5,1,22,
+"Kansas",115,27,47,3,3,6,3,4,,,,20,1
+"Iowa",114,22,37,,3,9,10,6,,,1,26,
+"Delaware",111,37,51,1,3,9,2,4,,,,3,1
+"Alaska",74,14,14,10,2,10,2,12,,2,,8,
+"Idaho",56,5,27,,1,3,1,2,2,1,1,13,
+"Nebraska",51,4,10,,1,3,2,1,1,2,1,19,1
+"Rhode Island",50,24,11,,,5,3,1,,4,,1,1
+"South Dakota",47,1,14,1,1,6,1,1,,,1,19,
+"Montana",42,4,14,2,,5,1,6,1,,1,8,
+"Wyoming",40,1,9,,,4,,5,,13,,8,
+"Maine",34,2,16,,,1,1,4,3,2,,5,
+"North Dakota",30,4,11,3,,1,,4,,1,,6,
+"New Hampshire",25,5,6,,,1,3,,,2,1,7,
+"Vermont",14,2,5,,1,1,,,,1,,4,
+"Hawaii",11,3,2,,,2,,1,,,,3,
+
+
+
+"Publisher:", "Federal Bureau of Investigation"
+"Copyright:", "The data contained in Sage Data is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
